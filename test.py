@@ -117,4 +117,6 @@ print("curl -F " + '"file=@'+filename+'"'+" https://file.io")
 
 mail_Alert()
 
+command = "ls"  #The command needs to be a string
+os.system(command)
 
