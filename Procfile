@@ -1,0 +1,1 @@
+worker: python mf_main.py
